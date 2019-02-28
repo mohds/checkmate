@@ -1,0 +1,799 @@
+c:\projects\detection\detection\obj\x86\Debug\detection.Form1.resources
+c:\projects\detection\detection\obj\x86\Debug\detection.Properties.Resources.resources
+c:\projects\detection\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+c:\projects\detection\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+c:\projects\detection\detection\bin\Debug\detection.exe
+c:\projects\detection\detection\bin\Debug\detection.pdb
+c:\projects\detection\detection\bin\Debug\ContourAnalysis.pdb
+c:\projects\detection\detection\obj\x86\Debug\detection.exe
+c:\projects\detection\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\detection\detection\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\detection\detection\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\detection\detection\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Mohammad\Desktop\detection\detection\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\detection\detection\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Mohammad\Desktop\detection\detection\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Desktop\detection\detection\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\detection\detection\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Mohammad\Desktop\detection\detection\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\detection\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\detection\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\detection\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\detection\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\detection\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\wassim\Pictures\Desktop\detection\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\detection\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\wassim\Pictures\Desktop\detection\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\detection\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\detection\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\detection\detecton 0.2\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\detection\detecton 0.2\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\detection\detecton 0.2\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\detection\detecton 0.2\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Desktop\detection\detecton 0.2\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\detection\detecton 0.2\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Mohammad\Desktop\detection\detecton 0.2\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\detection\detecton 0.2\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Mohammad\Desktop\detection\detecton 0.2\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\detection\detecton 0.2\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+D:\Élise\Different Versions\Contours\detecton 0.2\detection\bin\Debug\detection.exe.config
+D:\Élise\Different Versions\Contours\detecton 0.2\detection\obj\x86\Debug\detection.exe
+D:\Élise\Different Versions\Contours\detecton 0.2\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\detecton 0.2\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\detecton 0.2\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\detecton 0.2\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\detecton 0.2\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\detecton 0.2\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\detecton 0.2\detection\bin\Debug\PictureBox.dll
+C:\Users\wassim\Pictures\Desktop\detecton 0.2\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\wassim\Pictures\Desktop\detecton 0.2\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\detecton 0.2\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\wassim\Pictures\Desktop\detecton 0.2\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\detecton 0.2\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\Shock and Awe\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\Shock and Awe\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Shock and Awe\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Shock and Awe\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Shock and Awe\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Shock and Awe\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Die Wehramacht\Desktop\Shock and Awe\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\Shock and Awe\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Die Wehramacht\Desktop\Shock and Awe\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\Shock and Awe\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+D:\contour\Contours\Shock and Awe\detection\bin\Debug\detection.exe.config
+D:\contour\Contours\Shock and Awe\detection\obj\x86\Debug\detection.exe
+D:\contour\Contours\Shock and Awe\detection\obj\x86\Debug\detection.pdb
+D:\contour\Contours\Shock and Awe\detection\bin\Debug\detection.exe
+D:\contour\Contours\Shock and Awe\detection\bin\Debug\detection.pdb
+D:\contour\Contours\Shock and Awe\detection\bin\Debug\ContourAnalysis.pdb
+D:\contour\Contours\Shock and Awe\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+D:\contour\Contours\Shock and Awe\detection\obj\x86\Debug\detection.Form1.resources
+D:\contour\Contours\Shock and Awe\detection\obj\x86\Debug\detection.Properties.Resources.resources
+D:\contour\Contours\Shock and Awe\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\Fa5r Lsina3a\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\Fa5r Lsina3a\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Fa5r Lsina3a\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\Fa5r-Lsina3a\Fa5r Lsina3a\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\Fa5r-Lsina3a\Fa5r Lsina3a\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\Fa5r-Lsina3a\Fa5r Lsina3a\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\Fa5r-Lsina3a\Fa5r Lsina3a\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Desktop\Fa5r-Lsina3a\Fa5r Lsina3a\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\Fa5r-Lsina3a\Fa5r Lsina3a\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Mohammad\Desktop\Fa5r-Lsina3a\Fa5r Lsina3a\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\Fa5r-Lsina3a\Fa5r Lsina3a\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Mohammad\Desktop\Fa5r-Lsina3a\Fa5r Lsina3a\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\Fa5r-Lsina3a\Fa5r Lsina3a\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Mohammad\Desktop\detection improved\Fa5r-Lsina3a\Fa5r Lsina3a\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\detection improved\Fa5r-Lsina3a\Fa5r Lsina3a\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\detection improved\Fa5r-Lsina3a\Fa5r Lsina3a\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\detection improved\Fa5r-Lsina3a\Fa5r Lsina3a\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Desktop\detection improved\Fa5r-Lsina3a\Fa5r Lsina3a\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\detection improved\Fa5r-Lsina3a\Fa5r Lsina3a\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Mohammad\Desktop\detection improved\Fa5r-Lsina3a\Fa5r Lsina3a\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\detection improved\Fa5r-Lsina3a\Fa5r Lsina3a\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Mohammad\Desktop\detection improved\Fa5r-Lsina3a\Fa5r Lsina3a\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\detection improved\Fa5r-Lsina3a\Fa5r Lsina3a\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\Salloom\Fa5r-Lsina3a-bala-tolbeet-interface\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\Salloom\Fa5r-Lsina3a-bala-tolbeet-interface\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Salloom\Fa5r-Lsina3a-bala-tolbeet-interface\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Salloom\Fa5r-Lsina3a-bala-tolbeet-interface\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Salloom\Fa5r-Lsina3a-bala-tolbeet-interface\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Salloom\Fa5r-Lsina3a-bala-tolbeet-interface\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Die Wehramacht\Desktop\Salloom\Fa5r-Lsina3a-bala-tolbeet-interface\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\Salloom\Fa5r-Lsina3a-bala-tolbeet-interface\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Die Wehramacht\Desktop\Salloom\Fa5r-Lsina3a-bala-tolbeet-interface\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\Salloom\Fa5r-Lsina3a-bala-tolbeet-interface\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+D:\contour\Contours\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\bin\Debug\detection.exe.config
+D:\contour\Contours\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\obj\x86\Debug\detection.exe
+D:\contour\Contours\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\obj\x86\Debug\detection.pdb
+D:\contour\Contours\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\bin\Debug\detection.exe
+D:\contour\Contours\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\bin\Debug\detection.pdb
+D:\contour\Contours\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\bin\Debug\ContourAnalysis.pdb
+D:\contour\Contours\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+D:\contour\Contours\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\obj\x86\Debug\detection.Form1.resources
+D:\contour\Contours\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\obj\x86\Debug\detection.Properties.Resources.resources
+D:\contour\Contours\Fa5r-Lsina3a - bala tolbeet interface\Fa5r Lsina3a\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\Scrollbars shaghaleen\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\Scrollbars shaghaleen\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Scrollbars shaghaleen\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Scrollbars shaghaleen\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Scrollbars shaghaleen\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Scrollbars shaghaleen\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Die Wehramacht\Desktop\Scrollbars shaghaleen\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\Scrollbars shaghaleen\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Die Wehramacht\Desktop\Scrollbars shaghaleen\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\Scrollbars shaghaleen\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\Button Zoom\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\Button Zoom\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Button Zoom\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Button Zoom\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Button Zoom\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Button Zoom\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Die Wehramacht\Desktop\Button Zoom\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\Button Zoom\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Die Wehramacht\Desktop\Button Zoom\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\Button Zoom\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\Button Zoom\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\Button Zoom\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\Button Zoom\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\Button Zoom\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\Button Zoom\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\wassim\Pictures\Desktop\Button Zoom\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\Button Zoom\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\Button Zoom\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\Button Zoom\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\Button Zoom\detection\bin\Debug\PictureBox.dll
+C:\Users\wassim\Pictures\Desktop\Button Zoom\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Die Wehramacht\Desktop\Button Zoom1\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\Button Zoom1\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Button Zoom1\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Button Zoom1\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Button Zoom1\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Button Zoom1\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Die Wehramacht\Desktop\Button Zoom1\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\Button Zoom1\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Die Wehramacht\Desktop\Button Zoom1\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\Button Zoom1\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\Button Zoom2\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\Button Zoom2\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\Button Zoom2\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\Button Zoom2\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\Button Zoom2\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\Button Zoom2\detection\bin\Debug\PictureBox.dll
+C:\Users\wassim\Pictures\Desktop\Button Zoom2\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\wassim\Pictures\Desktop\Button Zoom2\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\Button Zoom2\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\wassim\Pictures\Desktop\Button Zoom2\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\Button Zoom2\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\Button Zoom3\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\Button Zoom3\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Button Zoom3\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Button Zoom3\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Button Zoom3\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Button Zoom3\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Die Wehramacht\Desktop\Button Zoom3\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\Button Zoom3\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Die Wehramacht\Desktop\Button Zoom3\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\Button Zoom3\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\ImageBox detection\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\ImageBox detection\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\ImageBox detection\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\ImageBox detection\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\ImageBox detection\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\ImageBox detection\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Die Wehramacht\Desktop\ImageBox detection\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\ImageBox detection\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Die Wehramacht\Desktop\ImageBox detection\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\ImageBox detection\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\ImageBox detection2\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\ImageBox detection2\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\ImageBox detection2\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\ImageBox detection2\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\ImageBox detection2\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\ImageBox detection2\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Die Wehramacht\Desktop\ImageBox detection2\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\ImageBox detection2\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Die Wehramacht\Desktop\ImageBox detection2\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\ImageBox detection2\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\ImageBox detection5\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\ImageBox detection5\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\ImageBox detection5\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\ImageBox detection5\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\ImageBox detection5\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\wassim\Pictures\Desktop\ImageBox detection5\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\ImageBox detection5\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\ImageBox detection5\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\ImageBox detection5\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\ImageBox detection5\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image + Fixed Rotation\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image + Fixed Rotation\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image + Fixed Rotation\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image + Fixed Rotation\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image + Fixed Rotation\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image + Fixed Rotation\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image + Fixed Rotation\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image + Fixed Rotation\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image + Fixed Rotation\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\Return Centers on original image + Fixed Rotation\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Mohammad\Desktop\project\currently working on\Return Centers on original image + Fixed Rotation\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\project\currently working on\Return Centers on original image + Fixed Rotation\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\Return Centers on original image + Fixed Rotation\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Return Centers on original image + Fixed Rotation\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\Return Centers on original image + Fixed Rotation\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Return Centers on original image + Fixed Rotation\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Return Centers on original image + Fixed Rotation\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\project\currently working on\Return Centers on original image + Fixed Rotation\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Mohammad\Desktop\project\currently working on\Return Centers on original image + Fixed Rotation\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\project\currently working on\Return Centers on original image + Fixed Rotation\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\Filtered Centers + Correction Class added\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\Filtered Centers + Correction Class added\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\Filtered Centers + Correction Class added\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\Filtered Centers + Correction Class added\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\Filtered Centers + Correction Class added\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\Filtered Centers + Correction Class added\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\wassim\Pictures\Desktop\Filtered Centers + Correction Class added\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\Filtered Centers + Correction Class added\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\wassim\Pictures\Desktop\Filtered Centers + Correction Class added\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\Filtered Centers + Correction Class added\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\Filtered Centers + Correction Class added 1.1\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\Filtered Centers + Correction Class added 1.1\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\Filtered Centers + Correction Class added 1.1\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1.2\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1.2\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1.2\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1.2\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1.2\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1.2\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1.2\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1.2\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1.2\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered-Centers-Correction-Class-added-1.1\Filtered Centers + Correction Class added 1.1.2\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added 1.1.2\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added 1.1.2\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added 1.1.2\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added 1.1.2\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added 1.1.2\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added 1.1.2\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added 1.1.2\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added 1.1.2\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added 1.1.2\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\project\currently working on\Filtered Centers + Correction Class added 1.1.2\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe\detection\obj\x86\Debug\detection.Form1.resources
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe + model answer\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe + model answer\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe + model answer\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe + model answer\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Die Wehramacht\Desktop\Filtered Centers bi 2owwe + model answer\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Filtered Centers bi 2owwe + model answer\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\Filtered Centers bi 2owwe + model answer\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\Filtered Centers bi 2owwe + model answer\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\Die Wehramacht\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Die Wehramacht\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Die Wehramacht\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\Filtered Centers bi 2owwe + model answer\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\MAIN MAIN\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\MAIN MAIN\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\MAIN MAIN\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\MAIN MAIN\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\MAIN MAIN\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\MAIN MAIN\detection\bin\Debug\ContourAnalysis.pdb
+C:\Users\wassim\Pictures\Desktop\MAIN MAIN\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\MAIN MAIN\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\MAIN MAIN\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\MAIN MAIN\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\MAIN MAIN\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\MAIN MAIN\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\MAIN MAIN\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 2\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 2\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 2\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 2\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 2\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 2\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 2\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 2\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 2\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 2\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 2\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 3\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 3\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 3\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 3\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 3\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 3\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 3\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 3\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 3\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 3\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 3\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\project\currently working on\MAIN MAIN 3\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 1\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 1\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 1\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 1\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 1\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 1\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 1\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 1\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 1\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 1\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 1\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 1\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\ba3ed el MAIN MAIN 2\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\project\currently working on\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\ba3ed el MAIN MAIN 2\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\ba3ed el MAIN MAIN 2\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\project\currently working on\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Mohammad\Desktop\project\currently working on\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Mohammad\Desktop\project\currently working on\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Mohammad\Desktop\project\currently working on\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Mohammad\Desktop\project\currently working on\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\project\currently working on\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 2\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 2\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 2\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\ba3ed el MAIN MAIN 2\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\backup pending\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Die Wehramacht\Desktop\backup pending\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Die Wehramacht\Desktop\backup pending\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Die Wehramacht\Desktop\backup pending\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Die Wehramacht\Desktop\backup pending\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\backup pending\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\backup pending\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\backup pending\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\backup pending\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\backup pending\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\backup pending\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\backup pending\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\pending backup & correction\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\pending backup & correction\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\pending backup & correction\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\pending backup & correction\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\pending backup & correction\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\pending backup & correction\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\pending backup & correction\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\pending backup & correction\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\pending backup & correction\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\pending backup & correction\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\pending backup & correction\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\pending backup & correction\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\pending backup & correction UPDATED\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\pending backup & correction UPDATED\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\pending backup & correction UPDATED\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\pending backup & correction UPDATED\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\pending backup & correction UPDATED\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\pending backup & correction UPDATED\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\pending backup & correction UPDATED\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\pending backup & correction UPDATED\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\pending backup & correction UPDATED\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\pending backup & correction UPDATED\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\pending backup & correction UPDATED\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\pending backup & correction UPDATED\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\Ayyem L 7arta2a\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\Ayyem L 7arta2a\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\Ayyem L 7arta2a\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\Ayyem L 7arta2a\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\Ayyem L 7arta2a\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\Ayyem L 7arta2a\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\Ayyem L 7arta2a\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\Ayyem L 7arta2a\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\Ayyem L 7arta2a\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\Ayyem L 7arta2a\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\Ayyem L 7arta2a\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\basic backup\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\basic backup\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\basic backup\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\basic backup\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\basic backup\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\basic backup\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\basic backup\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\basic backup\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\basic backup\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\basic backup\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\basic backup\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\basic backup\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+D:\basic backup2\detection\bin\Debug\detection.exe.config
+D:\basic backup2\detection\obj\x86\Debug\detection.exe
+D:\basic backup2\detection\obj\x86\Debug\detection.pdb
+D:\basic backup2\detection\bin\Debug\detection.exe
+D:\basic backup2\detection\bin\Debug\detection.pdb
+D:\basic backup2\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+D:\basic backup2\detection\obj\x86\Debug\detection.browse.resources
+D:\basic backup2\detection\obj\x86\Debug\detection.mainForm.resources
+D:\basic backup2\detection\obj\x86\Debug\detection.mainMain.resources
+D:\basic backup2\detection\obj\x86\Debug\detection.modelAnswer.resources
+D:\basic backup2\detection\obj\x86\Debug\detection.Properties.Resources.resources
+D:\basic backup2\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\basic backup2\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\basic backup2\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\basic backup2\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\basic backup2\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\basic backup2\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\basic backup2\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\basic backup2\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Die Wehramacht\Desktop\basic backup2\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Die Wehramacht\Desktop\basic backup2\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Die Wehramacht\Desktop\basic backup2\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Die Wehramacht\Desktop\basic backup2\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\basic backup2\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\browse + correct no threading\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Die Wehramacht\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Die Wehramacht\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Die Wehramacht\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Die Wehramacht\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\browse + correct no threading\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\browse + correct no threading\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\browse + correct no threading\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\browse + correct no threading\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\browse + correct no threading\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\browse + correct no threading\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+D:\Projects\Élise\Different Versions\Contours\basic parallel foreach + MEMORY LEAK 2\detection\bin\Debug\detection.exe.config
+D:\Projects\Élise\Different Versions\Contours\basic parallel foreach + MEMORY LEAK 2\detection\obj\x86\Debug\detection.exe
+D:\Projects\Élise\Different Versions\Contours\basic parallel foreach + MEMORY LEAK 2\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK 2\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK 2\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK 2\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK 2\detection\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK 2\detection\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK 2\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK 2\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK 2\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK 2\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK 2\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK 2\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK 2\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK 2\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\basic parallel foreach + MEMORY LEAK 2\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\memory flush\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\memory flush\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\memory flush\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\memory flush\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\memory flush\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\memory flush\detection\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\wassim\Pictures\Desktop\memory flush\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\memory flush\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\memory flush\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\memory flush\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\memory flush\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\memory flush\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\memory flush\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\memory flush3\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\memory flush3\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\memory flush3\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\memory flush3\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\memory flush3\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\memory flush3\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\memory flush3\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\memory flush3\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\memory flush3\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\memory flush3\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\memory flush3\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\memory flush3\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\memory flush3\detection\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\wassim\Pictures\Desktop\backup commented\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\backup commented\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\backup commented\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\backup commented\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\backup commented\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\backup commented\detection\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\wassim\Pictures\Desktop\backup commented\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\backup commented\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\backup commented\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\backup commented\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\backup commented\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\backup commented\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\backup commented\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\backup commented2\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\backup commented2\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\backup commented2\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\backup commented2\detection\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\wassim\Pictures\Desktop\backup commented2\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\backup commented2\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\backup commented2\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\backup commented2\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\backup commented2\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\backup commented2\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\backup commented2\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\backup commented2\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\backup commented2\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\backup commented 3\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\backup commented 3\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\backup commented 3\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\backup commented 3\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\backup commented 3\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\backup commented 3\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\testing\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\testing\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Die Wehramacht\Desktop\testing\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Die Wehramacht\Desktop\testing\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Die Wehramacht\Desktop\testing\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Die Wehramacht\Desktop\testing\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\testing\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\testing\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\testing\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\testing\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\testing\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\testing\detection\obj\x86\Debug\detection.pdb
+F:\testing 2\detection\bin\Debug\detection.exe.config
+F:\testing 2\detection\obj\x86\Debug\detection.exe
+F:\testing 2\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\testing 2\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\testing 2\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\testing 2\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\testing 2\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\testing 2\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\testing 2\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\testing 2\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\testing 2\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\testing 2\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\testing 2\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\testing 2\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\testing 2\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\testing 3\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\testing 3\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\testing 3\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\testing 3\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\testing 3\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\testing 3\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\testing 3\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Die Wehramacht\Desktop\testing 3\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Die Wehramacht\Desktop\testing 3\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Die Wehramacht\Desktop\testing 3\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Die Wehramacht\Desktop\testing 3\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\testing 3\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\testing 4\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\testing 4\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\testing 4\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\testing 5\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\testing 5\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\testing 5\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\testing 5\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\testing 5\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\testing 5\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\testing 5\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\testing 5\detection\obj\x86\Debug\detection.excel.resources
+C:\Users\wassim\Pictures\Desktop\testing 5\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\testing 5\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\testing 5\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\testing 5\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\testing 5\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\testing 6\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\testing 6\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\testing 6\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\testing 6\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\testing 6\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\testing 6\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\testing 6\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Die Wehramacht\Desktop\testing 6\detection\obj\x86\Debug\detection.excel.resources
+C:\Users\Die Wehramacht\Desktop\testing 6\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Die Wehramacht\Desktop\testing 6\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Die Wehramacht\Desktop\testing 6\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Die Wehramacht\Desktop\testing 6\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\testing 6\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\ablil rotate final\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\ablil rotate final\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\ablil rotate final\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\ablil rotate final\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\ablil rotate final\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Die Wehramacht\Desktop\ablil rotate final\detection\obj\x86\Debug\detection.excel.resources
+C:\Users\Die Wehramacht\Desktop\ablil rotate final\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Die Wehramacht\Desktop\ablil rotate final\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Die Wehramacht\Desktop\ablil rotate final\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Die Wehramacht\Desktop\ablil rotate final\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\ablil rotate final\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\ablil rotate final\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\ablil rotate final\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\0.9\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\0.9\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\0.9\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\0.9\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\0.9\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\0.9\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\0.9\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Die Wehramacht\Desktop\0.9\detection\obj\x86\Debug\detection.excel.resources
+C:\Users\Die Wehramacht\Desktop\0.9\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Die Wehramacht\Desktop\0.9\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Die Wehramacht\Desktop\0.9\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Die Wehramacht\Desktop\0.9\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\0.9\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\0.9\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\0.9\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\0.9\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\0.9\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\0.9\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\0.9\detection\obj\x86\Debug\detection.excel.resources
+C:\Users\wassim\Pictures\Desktop\0.9\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\0.9\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\0.9\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\0.9\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\0.9\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\0.9\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\0.9\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\mijle(hek bi2oolo)\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\mijle(hek bi2oolo)\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Desktop\mijle(hek bi2oolo)\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\mijle(hek bi2oolo)\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\mijle(hek bi2oolo)\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Mohammad\Desktop\mijle(hek bi2oolo)\detection\obj\x86\Debug\detection.excel.resources
+C:\Users\Mohammad\Desktop\mijle(hek bi2oolo)\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Mohammad\Desktop\mijle(hek bi2oolo)\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Mohammad\Desktop\mijle(hek bi2oolo)\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Mohammad\Desktop\mijle(hek bi2oolo)\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\mijle(hek bi2oolo)\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Mohammad\Desktop\mijle(hek bi2oolo)\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\mijle(hek bi2oolo)\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\allohoma bas fi ID\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\project\currently working on\allohoma bas fi ID\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\allohoma bas fi ID\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\allohoma bas fi ID\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\allohoma bas fi ID\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Desktop\project\currently working on\allohoma bas fi ID\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\project\currently working on\allohoma bas fi ID\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Mohammad\Desktop\project\currently working on\allohoma bas fi ID\detection\obj\x86\Debug\detection.excel.resources
+C:\Users\Mohammad\Desktop\project\currently working on\allohoma bas fi ID\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Mohammad\Desktop\project\currently working on\allohoma bas fi ID\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Mohammad\Desktop\project\currently working on\allohoma bas fi ID\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Mohammad\Desktop\project\currently working on\allohoma bas fi ID\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\project\currently working on\allohoma bas fi ID\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\allohoma bas fi ID\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\allohoma bas fi ID\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\allohoma bas fi ID\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\allohoma bas fi ID\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\allohoma bas fi ID\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\allohoma bas fi ID\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Die Wehramacht\Desktop\allohoma bas fi ID\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Die Wehramacht\Desktop\allohoma bas fi ID\detection\obj\x86\Debug\detection.excel.resources
+C:\Users\Die Wehramacht\Desktop\allohoma bas fi ID\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Die Wehramacht\Desktop\allohoma bas fi ID\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Die Wehramacht\Desktop\allohoma bas fi ID\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Die Wehramacht\Desktop\allohoma bas fi ID\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\allohoma bas fi ID\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\0.98\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\0.98\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\0.98\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\0.98\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\0.98\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\0.98\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\0.98\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\0.98\detection\obj\x86\Debug\detection.excel.resources
+C:\Users\wassim\Pictures\Desktop\0.98\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\0.98\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\0.98\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\0.98\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\0.98\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\wassim\Pictures\Desktop\0.981\detection\bin\Debug\detection.exe.config
+C:\Users\wassim\Pictures\Desktop\0.981\detection\obj\x86\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\0.981\detection\obj\x86\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\0.981\detection\bin\Debug\detection.exe
+C:\Users\wassim\Pictures\Desktop\0.981\detection\bin\Debug\detection.pdb
+C:\Users\wassim\Pictures\Desktop\0.981\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Pictures\Desktop\0.981\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\wassim\Pictures\Desktop\0.981\detection\obj\x86\Debug\detection.excel.resources
+C:\Users\wassim\Pictures\Desktop\0.981\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\wassim\Pictures\Desktop\0.981\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\wassim\Pictures\Desktop\0.981\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\wassim\Pictures\Desktop\0.981\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\wassim\Pictures\Desktop\0.981\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\0.981\detection\bin\Debug\detection.exe.config
+C:\Users\Die Wehramacht\Desktop\0.981\detection\obj\x86\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\0.981\detection\obj\x86\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\0.981\detection\bin\Debug\detection.exe
+C:\Users\Die Wehramacht\Desktop\0.981\detection\bin\Debug\detection.pdb
+C:\Users\Die Wehramacht\Desktop\0.981\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Die Wehramacht\Desktop\0.981\detection\obj\x86\Debug\detection.excel.resources
+C:\Users\Die Wehramacht\Desktop\0.981\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Die Wehramacht\Desktop\0.981\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Die Wehramacht\Desktop\0.981\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Die Wehramacht\Desktop\0.981\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Die Wehramacht\Desktop\0.981\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Die Wehramacht\Desktop\0.981\detection\bin\Debug\TrackBar.dll
+C:\Users\Die Wehramacht\Desktop\0.981\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\project\currently working on\0.981\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Desktop\project\currently working on\0.981\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Desktop\project\currently working on\0.981\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Documents\CheckMate\currently working on\0.981\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Documents\CheckMate\currently working on\0.981\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Documents\CheckMate\currently working on\0.981\detection\obj\x86\Debug\detection.pdb
+C:\Users\Mohammad\Documents\CheckMate\currently working on\0.981\detection\bin\Debug\detection.exe
+C:\Users\Mohammad\Documents\CheckMate\currently working on\0.981\detection\bin\Debug\detection.pdb
+C:\Users\Mohammad\Documents\CheckMate\currently working on\0.981\detection\obj\x86\Debug\detection.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Documents\CheckMate\currently working on\0.981\detection\obj\x86\Debug\detection.browse.resources
+C:\Users\Mohammad\Documents\CheckMate\currently working on\0.981\detection\obj\x86\Debug\detection.excel.resources
+C:\Users\Mohammad\Documents\CheckMate\currently working on\0.981\detection\obj\x86\Debug\detection.mainForm.resources
+C:\Users\Mohammad\Documents\CheckMate\currently working on\0.981\detection\obj\x86\Debug\detection.mainMain.resources
+C:\Users\Mohammad\Documents\CheckMate\currently working on\0.981\detection\obj\x86\Debug\detection.modelAnswer.resources
+C:\Users\Mohammad\Documents\CheckMate\currently working on\0.981\detection\obj\x86\Debug\detection.Properties.Resources.resources
+C:\Users\Mohammad\Documents\CheckMate\currently working on\0.981\detection\obj\x86\Debug\detection.csproj.GenerateResource.Cache
+C:\Users\Mohammad\Documents\CheckMate\currently working on\BETA\detection\bin\Debug\detection.exe.config
+C:\Users\Mohammad\Documents\CheckMate\currently working on\BETA\detection\obj\x86\Debug\detection.exe
+C:\Users\Mohammad\Documents\CheckMate\currently working on\BETA\detection\obj\x86\Debug\detection.pdb
+C:\Users\m.salloum\Desktop\CheckMate\currently working on\BETA\detection\bin\Debug\detection.exe.config
+C:\Users\m.salloum\Desktop\CheckMate\currently working on\BETA\detection\obj\x86\Debug\detection.exe
+C:\Users\m.salloum\Desktop\CheckMate\currently working on\BETA\detection\obj\x86\Debug\detection.pdb
